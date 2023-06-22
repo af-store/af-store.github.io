@@ -77,7 +77,7 @@
   <!-- /header --> 
   <br><br>
     <div class="wrapper">
-      <div class="title-text">
+         <div class="title-text">
         <div class="title login">Form Login</div>
         <div class="title signup">Form Registrasi</div>
       </div>
