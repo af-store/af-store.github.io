@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="../style/main.css">
     <link rel="shortcut icon" href="../assets/icons/favicon.ico" type="image/x-icon">
 
-    <title>Terbaru</title>
+    <title>Hubungi Kami</title>
   </head>
   <body>
     <!-- header -->
@@ -93,62 +93,51 @@
         </nav>
       </header>
   <!-- /header -->
-
-  <div role="form" class="wpcf7" id="wpcf7-f210627-p134196-o1" lang="id-ID" dir="ltr">
-    <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-    <form action="/contact/#wpcf7-f210627-p134196-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-    <div style="display: none;">
-    <input type="hidden" name="_wpcf7" value="210627" />
-    <input type="hidden" name="_wpcf7_version" value="5.6" />
-    <input type="hidden" name="_wpcf7_locale" value="id_ID" />
-    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f210627-p134196-o1" />
-    <input type="hidden" name="_wpcf7_container_post" value="134196" />
-    <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-    </div>
-    <p><label>Your Name (required)</label><br />
-        <span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span><br />
-        <label>Your Email (required)</label><br />
-        <span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span><br />
-        <label>Subject</label><br />
-        <span class="wpcf7-form-control-wrap" data-name="subject"><input type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-        <label>Your Message</label><br />
-        <span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span></p>
-    <p>    <input type="submit" value="Send" class="wpcf7-form-control has-spinner wpcf7-submit button" /></p>
-    <div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
-            </div>
-                </div>
-    
-        
-    
-        <div id="col-808896551" class="col medium-6 small-12 large-6"  >
-            <div class="col-inner"  >
-                
-                
-    <h3 style="color: #000;"><strong>HEAD OFFICE</strong></h3>
-    <p><i class="fa fa-home"></i> Jl. Ibu Inggit Garnasih No. 12<br />Bandung 40242<br />Jawa Barat, Indonesia<br />(022) 520 1125</p>
-    <p><i class="fa fa-clock-o"></i> Monday to Friday: 07:30 – 16:30 WIB<br />Saturday: 07:00 – 13.00 WIB</p>
-        <div id="text-1163206468" class="text">
+  <h3 class="text-center"><b>Hubungi Kami</b></h3> <br>
+    <div class="Contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
             
-    <h3 style="color: #000;"><strong>CUSTOMER SERVICE</strong></h3>
-    <p><i class="fa fa-envelope"></i> <a href="mailto:customer_service@elizabethbag.com">customer_service@elizabethbag.com</a><br /><i class="fa fa-mobile"></i> 0822 1813 6730 (WA Only)<br /><i class="fa fa-clock-o"></i> Everyday 8:00-20:00</p>
-            
-    <style>
-    #text-1163206468 {
-      line-height: 1.75;
-    }
-    </style>
+            <form action="berhasil.php" method="post" >
+            <label for="Your name"><b>Your Name (required) </b></label>
+            <input type="text" name="name" id="name" required>
+            <label for="Your name"><b>Your Email (required)</b> </label>
+            <input type="text" name="name" id="name" required>
+            <label for="Your name"><b>Subject </b></label>
+            <input type="text" name="name" id="name">
+            <label for="Your Message"><b>Your Message</b></label>
+            <textarea name="Your Message" id="Your Message" cols="40" rows="5">
+            </textarea>
+            <button class="btn btn-outline-secondary" type="submit">SEND</button>
+            <button class="btn btn-outline-secondary" type="reset">CANCEL</button>
+            </form>
+          </div>
+  
+          <div class="col-md-5 offset-md-4 mb-3">
+            <form>
+              <h6><b>HEAD OFFICE</b></h6>
+              <a href="https://goo.gl/maps/Eu6FkruYC4AkAkYf6" class="nav-item p-0 text-muted nav-link"><img src="../assets/icons/home.svg" alt=""> Jl. Dewi Sartika No.289, Cawang, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13630 </a> <p class="nav-item p-0 text-muted nav-link">Monday to Friday: 07:30 - 16:30 WIB Saturday: 07:00 - 13:00</p>
+              <h6><b>CUSTOMER SERVICE</b></h6>
+              <a href="mailto:abimutholib3003@gmail.com.com" class="nav-item p-0 text-muted nav-link"><img src="../assets/icons/email1.svg" alt=""> customer_service@afstore.com</a> <p class="nav-item p-0 text-muted nav-link">Everyday 8:00 - 20:00</p>
+              <p class="nav-item p-0 text-muted nav-link">Sebagai bagian dari Kepatuhan atas corporate governance atas perlindungan konsumen, Berikut kami sampaikan juga kontak alamat dari Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan Republik Indonesia:</p>
+              <p class="nav-item p-0 text-muted nav-link">Layanan Pengaduan Konsumen
+                Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga
+                Kementrian Perdagangan Republik Indonesia</p>
+              <p class="nav-item p-0 text-muted nav-link col-md-6" >Alamat:
+                Gedung I Lantai 3
+                Jalam M.I. Ridwan Rais No.5
+                Jakarta Pusat 10110
+                
+                Whatsapp Ditjen PKTN
+                0853-1111-1010</p>
+            </form>
+          </div>
         </div>
-        
-    <p>Sebagai bagian dari Kepatuhan atas corporate governance atas perlindungan konsumen, Berikut kami sampaikan juga kontak alamat dari Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan Republik Indonesia:</p>
-    <p>Layanan Pengaduan Konsumen<br />Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga<br />Kementrian Perdagangan Republik Indonesia</p>
-    <p>Alamat:<br />Gedung I Lantai 3<br />Jalam M.I. Ridwan Rais No.5<br />Jakarta Pusat 10110</p>
-    <p>Whatsapp Ditjen PKTN<br />0853-1111-1010</p>
-            </div>
-                </div>
-    
-        
+
+      </div>
+
     </div>
-            </div>
   
   <!-- Footer -->
 
@@ -196,7 +185,7 @@
                 <p class="nav-item p-0 text-muted nav-link">Senin-Jum'at: 08.00 - 20.00 WIB Sabtu-Minggu/Libur Nasional: 11:00-20:00 WIB <br>
                 <a href="mailto:abimutholib3003@gmail.com.com" class="nav-item p-0 text-muted nav-link"><img src="../assets/icons/email.svg" alt=""> customer@afstore.com</a>
                 <a href="https://goo.gl/maps/9GPTHP8D9MFtq7W87" class="nav-item p-0 text-muted nav-link"><img src="../assets/icons/map.svg" alt="" > Jl. Kramat Raya No.98 Senen, Jakarta Pusat 10450</a> </p>
-                <a href="../views/hubungikami.html"><button class=" btn btn-outline-secondary" type="button">HUBUNGI KAMI</button> </a>
+                <a href="../views/hubungikami.php"><button class=" btn btn-outline-secondary" type="button">HUBUNGI KAMI</button> </a>
               </form>
         </div>
       </div>
