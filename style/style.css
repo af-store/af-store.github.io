@@ -6,13 +6,21 @@
   font-family: 'Poppins', sans-serif;
 }
 html,body{
-  display: grid;
-  height: 100%;
-  width: 100%;
+	background-image: url(../assets/icons/17545.jpg);
+  margin: 0px;
   place-items: center;
-  /*background-color: #8EC5FC;*/
-  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  display: grid;
+}
+header{
+  margin: 0px;
+  background-color: none;
+  display: flexbox;
+  justify-content: space-between;
+}
 
+a{
+    text-decoration: solid;
+    color: black;
 }
 ::selection{
   background: #1a75ff;
@@ -21,10 +29,10 @@ html,body{
 .wrapper{
   overflow: hidden;
   max-width: 390px;
-  background: #fff;
+  background: #254283;
   padding: 30px;
   border-radius: 15px;
-  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  box-shadow: rgb(52, 138, 230) 0px 20px 30px -10px;
 }
 .wrapper .title-text{
   display: flex;
